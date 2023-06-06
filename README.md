@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudoalexjulian
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in Cyberintelligence
 - 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on Cybersecurity
+- 💞️ I’m looking to collaborate on Cybersecurity/Intelligence
 
 
 <!---
